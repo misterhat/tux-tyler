@@ -1,0 +1,25 @@
+{
+  "name": "tux-tyler",
+  "version": "1.0.0",
+  "description": "convert tyler JSON maps to supertux2 levels.",
+  "main": "tux-tyler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterhat/tux-tyler.git"
+  },
+  "keywords": [
+    "tyler",
+    "supertux2",
+    "map",
+    "maps"
+  ],
+  "author": "Zorian Medwid <misterhat144@gmail.com>",
+  "license": "AGPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/misterhat/tux-tyler/issues"
+  },
+  "homepage": "https://github.com/misterhat/tux-tyler#readme"
+}
